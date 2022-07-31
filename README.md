@@ -14,17 +14,13 @@ Step 1 :- clone project from the repositiory to your server folder
 </br>
             go to htdocs folder and run command prompt, and run the following command
 </br>
-        **
-</br>
-            git clone https://github.com/CGANN11/FINGENT-INTERVIEW.git
+        ** git clone https://github.com/CGANN11/FINGENT-INTERVIEW.git
 </br>
         this command will create new folder FINGENT-INTERVIEW also download the code from the master branch of Git repository
 </br>
 Step 2:-checkout to the develop branch
 </br>
-        ** 
-</br>
-            git checkout develop
+        ** git checkout develop
 </br>
         it will merge all the codes from develop branch to your folder
 </br>
